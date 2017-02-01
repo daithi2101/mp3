@@ -1,0 +1,71 @@
+    1  cd Documents/mp3/
+    2  git init
+    3  git push -u origin master
+    4  git add *
+    5  git add .
+    6  git status
+    7  git commit -m "Initial commit"
+    8  git status
+    9  git log
+   10  git clone https://github.com/daithi2101/mp3.git
+   11  git add .
+   12  git status
+   13  cd Documents/mp3/
+   14  git init
+   15  git status
+   16  git add .
+   17  git remote add origin https://github.com/daithi2101/mp3
+   18  git push -u origin
+   19  git push -u origin master
+   20  git push -u origin master
+   21  git push-u origin master
+   22  git push -u origin master
+   23  cd Documents/mp3/
+   24  git status
+   25  git commit -m "Initial commit"
+   26  git remote add origin
+   27  git push -u origin master
+   28  git remote add origin https://github.com/daithi2101/mp3
+   29  git push -u origin master
+   30  cd Documents/mp3/
+   31  git status
+   32  git remote add origin https://github.com/daithi2101/mp3
+   33  git push -u origin master
+   34  cd Documents/
+   35  mkdir mp3
+   36  cd mp3/
+   37  git init
+   38  lsa -al
+   39  ls -al
+   40  git status
+   41  git add .
+   42  git status
+   43  git commit -m "Added first two lab files"
+   44  git status
+   45  git log
+   46  git remote add origin https://github.com/daithi2101/mp3
+   47  git push -u remote origin
+   48  git push -u origin master
+   49  git remote add origin https://github.com/daithi2101/mp3.git
+   50  git push -u origin master
+   51  git status
+   52  git add .
+   53  git commit -m "Added lab with probability code to repository"
+   54  git status
+   55  git push
+   56  git log
+   57  ls
+   58  checkout
+   59  cd
+   60  jupyter notebook
+   61  cd Documents/mp3/
+   62  git add .
+   63  git commit -m "Added fourth lab to mp3 repository"
+   64  git push
+   65  git log
+   66  git status
+   67  git add .
+   68  git commit -m "Updated Probability problem"
+   69  git push
+   70  history
+   71  history > mp3_hist
