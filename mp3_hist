@@ -1,0 +1,29 @@
+    1  mkdir
+    2  mkdir mp3
+    3  ls
+    4  git init
+    5  git clone https://github.com/daithi2101/mp3.git
+    6  git rm -r .ipynb_checkpoints/
+    7  git rm -r .ipy/checkpoints/
+    8  ls
+    9  cd mp3
+   10  ls
+   11  git rm -r .ipynb_checkpoints/
+   12  ls
+   13  git status
+   14  git push
+   15  git commit -m "Removed  checkpoints folder"
+   16  git status
+   17  git push
+   18  vi .gitignore
+   19  cat
+   20  cat .gitignore 
+   21  ls -a
+   22  git status
+   23  git add .
+   24  git commit -m "Added git ignore file and probability solutions
+
+Ignored the ipynb_checkpoints/ folder. Also added solutions to probability problems"
+   25  git push
+   26  history
+   27  history > mp3_hist
